@@ -1,0 +1,6 @@
+streamlit
+google-genai
+openai
+huggingface_hub
+pypdf
+python-dotenv
